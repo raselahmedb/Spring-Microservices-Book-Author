@@ -4,7 +4,7 @@
 
 ## Development Setup
 
-[JDK 17]
-[PostgreSQL 14]
+[JDK 17]()
+[PostgreSQL 14]()
 
-[Spring Tools 4 for Eclipse]
+[Spring Tools 4 for Eclipse]()
